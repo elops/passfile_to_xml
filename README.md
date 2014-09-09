@@ -1,6 +1,7 @@
 Convert password list to KeePassX xml format
 
 USAGE:
+  
   $ gpg -d FOO_Mon_xx.txt.asc | ./convert.rb > result.xml
 
 ***** IMPORTANT ********
